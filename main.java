@@ -4,7 +4,8 @@ import java.util.Arrays;
 import java.util.Random;
 import java.io.*;
 //page 241
-//test of clone
+//test of pull
+//test of push
 class main {
     public static void main(String[] args) {
         
